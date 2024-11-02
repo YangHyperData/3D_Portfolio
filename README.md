@@ -1,9 +1,6 @@
-# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
-
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
-
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+![image](https://github.com/user-attachments/assets/86b1945d-c1c0-430a-a361-1aae21ddb8db)
+![image](https://github.com/user-attachments/assets/fb9aae91-ca5c-42c3-acd0-3e2e4c7252cf)
+![image](https://github.com/user-attachments/assets/3b1998e7-ce29-47d1-a0a5-b62c2f2f0daa)
+![image](https://github.com/user-attachments/assets/61c56bee-a494-415a-9a69-44339605713a)
+![image](https://github.com/user-attachments/assets/77766c9b-6ea7-46c6-8138-02b745ce02a3)
 
